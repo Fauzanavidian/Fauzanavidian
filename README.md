@@ -8,7 +8,7 @@
 	<a href="https://github.com/Fauzanavidian"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/muhammad-fauzan-avidiansyah/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
+<!-- 
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -21,4 +21,4 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
-<br/>
+<br/> -->
